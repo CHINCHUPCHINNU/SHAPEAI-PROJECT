@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+-------------------------------------------------------------
+Weather Status for - PATTAMBI  || 23 Jun 2021 | 11:10:09 AM
+Current temperature is: 30.47 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 72 %
+Current wind speed    : 3.51 kmph
